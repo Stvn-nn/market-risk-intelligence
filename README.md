@@ -88,10 +88,4 @@ The `python` commands above assume your virtual environment is activated; otherw
 
 API routes: `/health`, `/analysis/AAPL` (synthetic), and `/analysis/TSLA?live=true&benchmark=SPY` (provider-backed). `/docs` documents the API locally. Bind to localhost for development. Authentication, multi-user quotas, and production hosting are not included.
 
-## Understand it and put it on GitHub
-
-- [GitHub walkthrough](docs/GITHUB_GUIDE.md): publish the source under your account and make later updates.
-- [Code learning guide](docs/LEARNING_GUIDE.md): how data moves through the project and what to explain in an interview.
-- [Methodology](docs/METHODOLOGY.md): exact calculations and their limits.
-
 Possible future work: point-in-time economic vintages, sector-specific financial scoring, out-of-sample anomaly evaluation, exchange-calendar-aware annualization, and a PostgreSQL adapter. These are future extensions, not implemented claims.
