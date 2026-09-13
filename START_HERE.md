@@ -4,7 +4,7 @@ You have the full source code. You do not need GitHub to run it first.
 
 ## 1. Extract the download
 
-Right-click `Market_risk_project.zip` → **Extract All**. Open the extracted folder until you can see `app.py`, `requirements.txt`, and `START_WINDOWS.bat` together. Do not run the project from inside the ZIP.
+Right-click `Market_risk_analysis_project.zip` → **Extract All**. Open the extracted folder until you can see `app.py`, `requirements.txt`, and `START_WINDOWS.bat` together. Do not run the project from inside the ZIP.
 
 ## 2. Install Python 3.12 if needed
 
