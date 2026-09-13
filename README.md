@@ -6,7 +6,7 @@ A Python research dashboard that connects price behavior, company financials, an
 
 Open `docs/DEMO_REPORT.html` in a browser for a synthetic research snapshot with embedded charts without installing Python. This report is a snapshot, not the live ticker-lookup app.
 
-An independent student portfolio project, created with AI assistance to support learning in computer science, data analytics, and finance. It is not commissioned, endorsed, or operated by Deloitte. No investment recommendations or order execution.
+An independent student portfolio project, created with AI assistance to support learning in computer science, data analytics, and finance. No investment recommendations or order execution.
 
 ## Start here
 
